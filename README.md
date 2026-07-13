@@ -195,22 +195,6 @@ The application provides:
 
 ---
 
-## 📷 Screenshots
-
-### Dashboard
-
-*(Add screenshot here)*
-
-### Prediction Result
-
-*(Add screenshot here)*
-
-### Customer Summary
-
-*(Add screenshot here)*
-
----
-
 ## 🔮 Future Improvements
 
 - Explainable AI (SHAP)
