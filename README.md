@@ -6,11 +6,7 @@ An interactive Machine Learning web application that predicts whether a telecom 
 
 ## 🚀 Live Demo
 
-🔗 **Streamlit App:** *(Add your Streamlit URL here after deployment)*
-
-Example:
-
-https://telecom-churn-dashboard.streamlit.app
+https://telecom-churn-prediction-z5fousbkgnjuk2ghw2kzzn.streamlit.app/?utm_source=chatgpt.com
 
 ---
 
