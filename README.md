@@ -228,3 +228,5 @@ If you found this project helpful, please consider giving it a ⭐ on GitHub.
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+[![Architecture diagram](https://gitdiagram.com/diagram-badge.svg)](https://gitdiagram.com/anjali22-lgtm/telecom-churn-prediction?utm_source=readme&utm_medium=badge)
